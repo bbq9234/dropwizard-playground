@@ -1,0 +1,4 @@
+logging:
+  level: INFO
+  loggers:
+    bbq923: DEBUG
